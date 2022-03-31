@@ -12,3 +12,7 @@
 ### Flink
 
 - [A Year in Flink - Flink SQL Live Coding](https://rberenguel.github.io/glances/data/flink/flink-sql-live-coding.html)
+
+## Misc
+
+- [Google Analytics 4 - What's New in 2022](https://rberenguel.github.io/glances/misc/universal-to-ga4.html)
