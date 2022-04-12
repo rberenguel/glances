@@ -8,10 +8,15 @@
 - [Powering Interactive BI Analytics with Presto and Delta Lake](https://rberenguel.github.io/glances/data/spark/presto-delta.html)
 - [Care and Feeding of Catalyst Optimizer](https://rberenguel.github.io/glances/data/spark/catalyst-care.html)
 - [Photon Technical Deep Dive: How to Think Vectorized](https://rberenguel.github.io/glances/data/spark/photon-deep-dive.html)
+- [Data Microservices in Apache Spark using Apache Arrow Flight](https://rberenguel.github.io/glances/data/spark/data-microservices-flight.html)
 
 ### Flink
 
 - [A Year in Flink - Flink SQL Live Coding](https://rberenguel.github.io/glances/data/flink/flink-sql-live-coding.html)
+
+### Misc
+
+- [DuckDB - The SQLite for Analytics](https://rberenguel.github.io/glances/data/misc/duckdb-sqlite-olap)
 
 ## Misc
 
