@@ -9,6 +9,7 @@
 - [Care and Feeding of Catalyst Optimizer](https://rberenguel.github.io/glances/data/spark/catalyst-care.html)
 - [Photon Technical Deep Dive: How to Think Vectorized](https://rberenguel.github.io/glances/data/spark/photon-deep-dive.html)
 - [Data Microservices in Apache Spark using Apache Arrow Flight](https://rberenguel.github.io/glances/data/spark/data-microservices-flight.html)
+- [Hyperspace: An Indexing Subsystem for Apache Spark](https://rberenguel.github.io/glances/data/spark/hyperspace-indexing.html)
 
 ### Flink
 
